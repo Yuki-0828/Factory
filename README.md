@@ -1,2 +1,2 @@
-# Facory
+# Factory
 Factory
