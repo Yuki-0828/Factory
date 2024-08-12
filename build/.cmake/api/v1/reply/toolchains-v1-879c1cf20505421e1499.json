@@ -1,0 +1,93 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/Microsoft VS Code/MinGW/lib/gcc/x86_64-w64-mingw32/10.3.0/include",
+						"D:/Microsoft VS Code/MinGW/include",
+						"D:/Microsoft VS Code/MinGW/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed",
+						"D:/Microsoft VS Code/MinGW/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "D:/Microsoft VS Code/MinGW/bin/gcc.exe",
+				"version" : "10.3.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/Microsoft VS Code/MinGW/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++",
+						"D:/Microsoft VS Code/MinGW/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/x86_64-w64-mingw32",
+						"D:/Microsoft VS Code/MinGW/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/backward",
+						"D:/Microsoft VS Code/MinGW/lib/gcc/x86_64-w64-mingw32/10.3.0/include",
+						"D:/Microsoft VS Code/MinGW/include",
+						"D:/Microsoft VS Code/MinGW/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed",
+						"D:/Microsoft VS Code/MinGW/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "D:/Microsoft VS Code/MinGW/bin/g++.exe",
+				"version" : "10.3.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/Microsoft VS Code/MinGW/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

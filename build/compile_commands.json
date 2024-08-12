@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/yuki2/Desktop/Factory/Factory/build",
+  "command": "\"D:\\Microsoft VS Code\\MinGW\\bin\\g++.exe\"   -g -std=gnu++2a -o CMakeFiles\\Factory_main.dir\\Factory.cpp.obj -c C:\\Users\\yuki2\\Desktop\\Factory\\Factory\\Factory.cpp",
+  "file": "C:/Users/yuki2/Desktop/Factory/Factory/Factory.cpp",
+  "output": "CMakeFiles/Factory_main.dir/Factory.cpp.obj"
+},
+{
+  "directory": "C:/Users/yuki2/Desktop/Factory/Factory/build",
+  "command": "\"D:\\Microsoft VS Code\\MinGW\\bin\\g++.exe\"   -g -std=gnu++2a -o CMakeFiles\\Factory_main.dir\\main.cpp.obj -c C:\\Users\\yuki2\\Desktop\\Factory\\Factory\\main.cpp",
+  "file": "C:/Users/yuki2/Desktop/Factory/Factory/main.cpp",
+  "output": "CMakeFiles/Factory_main.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+"D:\Microsoft VS Code\cmake-3.30.2-windows-x86_64\bin\cmake.exe" -E rm -f CMakeFiles\Factory_main.dir/objects.a
+"D:\Microsoft VS Code\MinGW\bin\ar.exe" qc CMakeFiles\Factory_main.dir/objects.a @CMakeFiles\Factory_main.dir\objects1.rsp
+"D:\Microsoft VS Code\MinGW\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\Factory_main.dir/objects.a -Wl,--no-whole-archive -o Factory_main.exe -Wl,--out-implib,libFactory_main.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Factory_main.dir\linkLibs.rsp
